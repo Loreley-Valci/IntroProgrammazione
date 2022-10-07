@@ -1,1 +1,2 @@
-# IntroProgrammazione
+lenguage = "bash"
+run = "/bin/bash"
